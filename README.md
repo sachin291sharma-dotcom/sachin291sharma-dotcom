@@ -5,10 +5,7 @@
     <i>"Good design is obvious. Great design is transparent."</i>
   </p>
 
-### 💡 Thought of the Day
-<p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
-</p>
+
   ---
 </div>
 
@@ -38,12 +35,10 @@ I'm a Web Developer passionate about building visually stunning and performant w
 
 <br />
 
-### 📈 My Coding Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builds-by-sachin&layout=compact&theme=vision-friendly-dark" />
+### 💡 Thought of the Day
+<p align="left">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=builds-by-sachin&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
-
 <br />
 
 ### 🐍 Contribution Journey
