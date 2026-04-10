@@ -19,7 +19,7 @@ I'm a Web Developer passionate about building visually stunning and performant w
 ### 🛠 Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,flask,django,tailwind,bootstrap,github,vscode,html,css" />
+    <img src="https://skillicons.dev/icons?i=py,flask,django,tailwind,sql,bootstrap,github,vscode,html,css" />
   </a>
 </p>
 
