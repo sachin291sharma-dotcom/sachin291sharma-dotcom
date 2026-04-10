@@ -40,7 +40,7 @@ I'm a Web Developer passionate about building visually stunning and performant w
 <br />
 
 ### 🐍 Contribution Journey
-![github contribution grid snake animation](https://raw.githubusercontent.com/sachin291sharma-dotcom/sachin291sharma-dotcom/output/github-contribution-grid-dark-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/sachin291sharma-dotcom/sachin291sharma-dotcom/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
