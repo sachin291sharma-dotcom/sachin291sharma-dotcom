@@ -34,8 +34,8 @@ I'm a Web Developer passionate about building visually stunning and performant w
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="165" />
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin291sharma-dotcom&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=sachin291sharma-dotcom&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
 
 <br />
 
