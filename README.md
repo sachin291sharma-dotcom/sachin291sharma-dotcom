@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sachin+Sharma+👋;Full+Stack+Developer;Flask+Expert;UI/UX+Enthusiast;Building+Modern+Dashboards" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Hi,+I'm+Sachin+Sharma+👋;Backend+Developer;Flask+Expert;UI/UX+Enthusiast;Building+Modern+Dashboards" alt="Typing SVG" />
 
   <p align="center">
     <i>"Good design is obvious. Great design is transparent."</i>
