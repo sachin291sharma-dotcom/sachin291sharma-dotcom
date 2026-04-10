@@ -34,7 +34,10 @@ I'm a Web Developer passionate about building visually stunning and performant w
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builds-by-sachin&layout=compact&theme=vision-friendly-dark" alt="Top Langs" height="165" />
+### 📈 My Coding Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builds-by-sachin&layout=compact&theme=vision-friendly-dark" />
+</p>
 <img src="https://github-readme-stats.vercel.app/api?username=builds-by-sachin&show_icons=true&theme=radical" alt="GitHub Stats" height="165" />
 
 <br />
@@ -45,6 +48,7 @@ I'm a Web Developer passionate about building visually stunning and performant w
 </div>
 
 ---
+
 
 ### 📫 Let's Connect!
 [💼 LinkedIn](https://linkedin.com/in/sachinsharma-itstimetowork) | [📧 Email](mailto:sachin291sharma@email.com)
